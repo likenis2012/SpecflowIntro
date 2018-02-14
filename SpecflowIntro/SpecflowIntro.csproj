@@ -58,6 +58,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Sample.feature</DependentUpon>
     </Compile>
+    <Compile Include="SampleFeatureStep.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
